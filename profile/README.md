@@ -11,4 +11,4 @@
   </p>
 </div>
 
-<img src="https://raw.githubusercontent.com/MemloreApp/memlore/main/docs/showcase/poster/memlore-poster.png" width="100%" alt="Memlore: A little life. A lasting story." />
+<img src="https://raw.githubusercontent.com/MemloreApp/memlore/refs/heads/main/public/memlore-poster.png" width="100%" alt="Memlore: A little life. A lasting story." />
